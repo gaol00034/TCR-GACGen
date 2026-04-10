@@ -14,7 +14,7 @@ You can download the models from [ckpt](https://drive.google.com/file/d/1o4RPr2p
 
 For generating the TCRs(CDR3bs) with given pMHCs and GEX, please run the script "./Scripts/inference.py";
 
-The input data format could be refered from in "./data/inputsample.csv";
+The input data format could be refered from "./data/inputsample.csv";
 ***
 ## Contact
 If you have any questions, please contact us at [ltgao34@njust.edu.cn](ltgao34@njust.edu.cn) or [njyudj@njust.edu.cn](njyudj@njust.edu.cn)
